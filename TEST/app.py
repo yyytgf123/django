@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # OpenWeatherMap API 설정
-OPENWEATHER_API_KEY = "eff56d875eabb22ad247d5d0ff7b55c8"  # 발급받은 API 키 적용
+OPENWEATHER_API_KEY = "Key"  # 발급받은 API 키 적용
 
 # 날씨에 따른 노래 추천 데이터
 SONG_RECOMMENDATIONS = {
